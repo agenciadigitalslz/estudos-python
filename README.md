@@ -61,7 +61,16 @@ Sinta-se à vontade para explorar, contribuir e aprender junto!
 
 ## 📚 Recursos e Referências
 
-Aqui você pode adicionar suas referências e materiais de estudo que considera importantes para sua jornada em Python e Ciência de Dados.
+# Start of Selection
+Aqui estão algumas referências e materiais de estudo que considero importantes para minha jornada em Python e Ciência de Dados:
+- **Documentação Oficial do Python**: [python.org](https://docs.python.org/3/)
+- **Curso de Python para Iniciantes**: [Alura](https://www.alura.com.br/curso-online-python)
+- **Kaggle**: Plataforma para competições de Ciência de Dados e conjuntos de dados para prática.
+- **Livros**: 
+  - "Python para Análise de Dados" de Wes McKinney
+  - "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" de Aurélien Géron
+- **Comunidades**: Participe de grupos no LinkedIn e Discord para troca de conhecimento e networking.
+# End of Selection
 
 ---
 
